@@ -1,2 +1,2 @@
 # ERD-product-analytical-sales
-Designing ERD to develop database
+Designing Entity Relationship Diagram to help creating a database
